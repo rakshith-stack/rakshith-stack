@@ -13,7 +13,7 @@
 - 💻 Skilled in **HTML, CSS, JavaScript, SQL, Python, Django**  
 - 🌱 Currently exploring **React & modern web technologies**  
 - 🤝 Looking to collaborate on **Web Development Projects**  
-- 📫 Reach me at **your.email@example.com**  
+- 📫 Reach me at **rakshithv86@gmailcom**  
 
 ---
 
@@ -33,26 +33,26 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshith123&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshith123&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshith123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/rakshith-v-61057b381" target="blank">
+  <a href="https://linkedin.com/in/rakshith-v-61057b381" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:rakshithv86@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME" target="blank">
+  <a href="https://github.com/rakshith123" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
   </a>
 </p>
 
 ---
 
-⭐️ From [rakshith-stack](https://github.com/YOUR-GITHUB-USERNAME)
+⭐️ From [rakshith-stack](https://github.com/rakshith-stack)
