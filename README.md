@@ -11,7 +11,6 @@
 ### 🌟 About Me  
 - 🎓 Engineering undergraduate & Full Stack Developer  
 - 💻 Skilled in **HTML, CSS, JavaScript, SQL, Python, Django**  
-- 🌱 Currently exploring **React & modern web technologies**  
 - 🤝 Looking to collaborate on **Web Development Projects**  
 - 📫 Reach me at **rakshithv86@gmailcom**  
 
